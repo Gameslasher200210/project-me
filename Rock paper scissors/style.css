@@ -1,0 +1,28 @@
+#scores, #playArea {
+    display: flex;
+    /* Optional: To align items horizontally */
+    justify-content: center;
+}
+
+#userScore,#comScore{
+    margin: 10px; /* Adjust the margin as needed */
+    border: 1px solid black ;
+    padding: 30px;
+}
+#user,#com{
+    margin: 10px; /* Adjust the margin as needed */
+    border: 1px solid black;
+    padding: 60px;
+}
+#controls{
+    display: flex;
+    justify-content: center;
+}
+
+.playButton{
+    padding: 10px;
+    margin: 30px;
+}
+h1{
+    text-align: center;
+}
