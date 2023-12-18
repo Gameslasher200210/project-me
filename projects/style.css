@@ -1,0 +1,12 @@
+.contents{
+    display: flex;
+    align-items: center; 
+    justify-content: space-around;
+}
+.intro{
+    border-right: 1px solid black;
+    padding-right: 60px;
+}
+.bio{
+    text-align: right;
+}

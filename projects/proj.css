@@ -1,0 +1,32 @@
+.Container {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.Beginner, .Intermediate, .Advanced {
+    width: 20%;
+    padding: 30px;
+    display: inline-block;
+    margin: 0 30px; /* Adjust the margin to create spacing between the divs */
+}
+.Side{
+    width: 20%;
+    border: 1px solid black;
+    margin: 0 100px; 
+    padding: 30px;
+    background-color: aliceblue;
+    color: black
+}
+.Beginner{
+    background-color: lightcoral;
+    color: red;
+}
+.Intermediate{
+background-color: lightskyblue;
+color: blue;
+}
+.Advanced {
+background-color: lightgreen;
+color: green;
+}
